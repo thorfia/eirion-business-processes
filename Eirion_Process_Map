@@ -4,67 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-1" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Management Processes" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-1" parent="1" style="swimlane;html=1;startSize=20;fontStyle=1;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Management Processes" vertex="1">
           <mxGeometry height="250" width="1510" x="60" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-15" parent="88q6AKnPwuJ13B8LzJdF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-010 Management Review" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-15" parent="88q6AKnPwuJ13B8LzJdF-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="PROC-010 Management Review" vertex="1">
           <mxGeometry height="60" width="120" x="193" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-16" parent="88q6AKnPwuJ13B8LzJdF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-008 Document Control" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-16" parent="88q6AKnPwuJ13B8LzJdF-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="PROC-008 Document Control" vertex="1">
           <mxGeometry height="60" width="120" x="410" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-17" parent="88q6AKnPwuJ13B8LzJdF-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Business Management System" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-17" parent="88q6AKnPwuJ13B8LzJdF-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="Business Management System" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-2" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Core Processes" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-2" parent="1" style="swimlane;html=1;startSize=20;fontStyle=1;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="Core Processes" vertex="1">
           <mxGeometry height="250" width="1510" x="60" y="450" as="geometry" />
         </mxCell>
         <mxCell id="88q6AKnPwuJ13B8LzJdF-10" edge="1" parent="88q6AKnPwuJ13B8LzJdF-2" source="88q6AKnPwuJ13B8LzJdF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="88q6AKnPwuJ13B8LzJdF-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-4" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-001 Sales and Contract Review" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-4" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="PROC-001 Sales and Contract Review" vertex="1">
           <mxGeometry height="60" width="120" x="193" y="95" as="geometry" />
         </mxCell>
         <mxCell id="88q6AKnPwuJ13B8LzJdF-11" edge="1" parent="88q6AKnPwuJ13B8LzJdF-2" source="88q6AKnPwuJ13B8LzJdF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="88q6AKnPwuJ13B8LzJdF-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-5" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-002 Engineering and Design" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-5" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="PROC-002 Engineering and Design" vertex="1">
           <mxGeometry height="60" width="120" x="363" y="95" as="geometry" />
         </mxCell>
         <mxCell id="88q6AKnPwuJ13B8LzJdF-12" edge="1" parent="88q6AKnPwuJ13B8LzJdF-2" source="88q6AKnPwuJ13B8LzJdF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="88q6AKnPwuJ13B8LzJdF-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-6" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-003 Procurement" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-6" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="PROC-003 Procurement" vertex="1">
           <mxGeometry height="60" width="120" x="533" y="95" as="geometry" />
         </mxCell>
         <mxCell id="88q6AKnPwuJ13B8LzJdF-13" edge="1" parent="88q6AKnPwuJ13B8LzJdF-2" source="88q6AKnPwuJ13B8LzJdF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="88q6AKnPwuJ13B8LzJdF-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-7" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-004 Manufacturing and Assembly" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-7" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="PROC-004 Manufacturing and Assembly" vertex="1">
           <mxGeometry height="60" width="120" x="693" y="95" as="geometry" />
         </mxCell>
         <mxCell id="88q6AKnPwuJ13B8LzJdF-14" edge="1" parent="88q6AKnPwuJ13B8LzJdF-2" source="88q6AKnPwuJ13B8LzJdF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="88q6AKnPwuJ13B8LzJdF-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-8" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-005 Testing and Verification" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-8" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="PROC-005 Testing and Verification" vertex="1">
           <mxGeometry height="60" width="120" x="873" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-9" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-006 Delivery" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-9" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="PROC-006 Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="1053" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-3" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Support Processes" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-3" parent="1" style="swimlane;html=1;startSize=20;fontStyle=1;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Support Processes" vertex="1">
           <mxGeometry height="250" width="1510" x="60" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-18" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-007 Supplier Management" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-18" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="PROC-007 Supplier Management" vertex="1">
           <mxGeometry height="60" width="120" x="193" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-19" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-009 Nonconformance Management" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-19" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="PROC-009 Nonconformance Management" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-20" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Competence and Training" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-20" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Competence and Training" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="88q6AKnPwuJ13B8LzJdF-21" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;" value="IT and Infrastructure" vertex="1">
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-21" parent="88q6AKnPwuJ13B8LzJdF-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="IT and Infrastructure" vertex="1">
           <mxGeometry height="60" width="120" x="740" y="90" as="geometry" />
         </mxCell>
       </root>
