@@ -10,6 +10,24 @@
         <mxCell id="88q6AKnPwuJ13B8LzJdF-2" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Core Processes" vertex="1">
           <mxGeometry height="250" width="1510" x="60" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-4" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-001 Sales and Contract Review" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-5" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-002 Engineering and Design" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-6" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-003 Procurement" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-7" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-004 Manufacturing and Assembly" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-8" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-005 Testing and Verification" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="88q6AKnPwuJ13B8LzJdF-9" parent="88q6AKnPwuJ13B8LzJdF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="PROC-006 Delivery" vertex="1">
+          <mxGeometry height="60" width="120" x="940" y="95" as="geometry" />
+        </mxCell>
         <mxCell id="88q6AKnPwuJ13B8LzJdF-3" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Support Processes" vertex="1">
           <mxGeometry height="250" width="1510" x="60" y="740" as="geometry" />
         </mxCell>
