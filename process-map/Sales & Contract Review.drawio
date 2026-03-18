@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1852" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1505" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,8 +375,8 @@
         <mxCell id="0xuKKepzenmwHYHdOOxP-33" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Sharepoint Site" vertex="1">
           <mxGeometry height="30" width="140" x="131" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="0xuKKepzenmwHYHdOOxP-49" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Notes:" vertex="1">
-          <mxGeometry height="30" width="80" x="51" y="1050" as="geometry" />
+        <mxCell id="0xuKKepzenmwHYHdOOxP-49" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Meaning of coloring:" vertex="1">
+          <mxGeometry height="30" width="80" x="218" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="0xuKKepzenmwHYHdOOxP-61" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;fillColor=#60a917;fontColor=#000000;strokeColor=#2D7600;fillStyle=auto;opacity=50;labelBorderColor=none;" value="Sharepoint List or Library" vertex="1">
           <mxGeometry height="30" width="120" x="311" y="1050" as="geometry" />
@@ -668,8 +668,14 @@
             <mxPoint x="1717" y="-810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0xuKKepzenmwHYHdOOxP-260" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="836" y="-70" as="geometry" />
+        <mxCell id="0xuKKepzenmwHYHdOOxP-266" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;fillStyle=auto;opacity=50;labelBorderColor=none;" value="Sharepoint&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="305" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="0xuKKepzenmwHYHdOOxP-267" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;fillColor=#b1ddf0;strokeColor=#10739e;fillStyle=auto;opacity=50;labelBorderColor=none;" value="M354 Logic App" vertex="1">
+          <mxGeometry height="30" width="120" x="440" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="0xuKKepzenmwHYHdOOxP-268" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;fillStyle=auto;opacity=50;labelBorderColor=none;" value="Teams (shared)" vertex="1">
+          <mxGeometry height="30" width="120" x="571" y="-80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
